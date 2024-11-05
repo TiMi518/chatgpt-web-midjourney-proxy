@@ -651,7 +651,7 @@ const ychat = computed(() => {
               v-else
             >
               <SvgIcon icon="ri:bubble-chart-fill" class="mr-2 text-3xl" />
-              <span>Aha~</span>
+              <span>Aha~微信AA9527M888</span>
             </div>
           </template>
           <template v-else>
