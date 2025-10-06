@@ -1,8 +1,21 @@
 # 功能升级日志
 
 #  计划 
+# 2.25.5
+- 😄 新增：suno-v5
+
+# 2.25.4
+- 😄 新增：nano-banana支持 比例
+- 😄 新增：google veo类视频、fal-ai视频类
+- 😄 新增：支持直达视频模型 https://vercel.ddaiai.com/#/video/index?tab=all&model=veo3
+# 2.25.3
+- 😄 新增：dalle格式的 谷歌 nano-banana
+
 # 2.25.2
 - 🐞 修复：gpt-image-1 无法同时传多个图片 #634
+- 🐞 修复：【bug】绘画 gpt-image-1 采用服务端配置生成图片报错 #646
+- 🐞 修复： gpt5报错 #650
+- 😄 新增：支持 mj 视频组合 `--video` `--bs 2`  生成视频  
 
 # 2.25.1
 - 😄 新增：支持 suno 模型 `v4.5+` , 将 mv 修改为`chirp-bluejay`
