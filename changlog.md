@@ -1,6 +1,23 @@
 # 功能升级日志
 
 #  计划 
+# 2.25.10
+- 😄 新增画图：nano-banana-2
+- 😄 新增对话：`gpt-5.1`、`gemini-3-pro-preview`,`grok-4.1`
+
+# 2.25.9
+- 🐞 修复：mj显示双图
+- 🐞 修复：gpt-5-all gpts 读取不了pdf的问题
+- 🐞 修复：nona-banana 请求返回正确，但是页面不显示，原因是确实一个判断逻辑。下面代码即可解决bug #667
+- 🐞 修复：MP4格式自动调用whisper-1模型可以去除吗？ #666
+
+# 2.25.8
+- 😄 新增视频：veo3.1 veo3.1-pro openai/sora-2 openai/sora-2-pro
+- 😄 修改：sora-2参数
+
+# 2.25.7
+- 😄 新增视频：sora-2-pro
+- 😄 修改：修改 sora-2参数
 # 2.25.6
 - 😄 新增视频：sora-2
 # 2.25.5
